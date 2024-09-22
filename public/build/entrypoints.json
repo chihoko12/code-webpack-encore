@@ -1,0 +1,54 @@
+{
+  "entrypoints": {
+    "app": {
+      "js": [
+        "/build/runtime.fa509eb0.js",
+        "/build/692.b351c162.js",
+        "/build/134.38059591.js",
+        "/build/456.a60055a5.js",
+        "/build/app.bfb5b151.js"
+      ],
+      "css": [
+        "/build/app.97314c80.css"
+      ]
+    },
+    "article_show": {
+      "js": [
+        "/build/runtime.fa509eb0.js",
+        "/build/692.b351c162.js",
+        "/build/article_show.99834438.js"
+      ],
+      "css": [
+        "/build/article_show.2ee9f00b.css"
+      ]
+    },
+    "admin_article_form": {
+      "js": [
+        "/build/runtime.fa509eb0.js",
+        "/build/692.b351c162.js",
+        "/build/134.38059591.js",
+        "/build/177.079f6dba.js",
+        "/build/admin_article_form.12bae3db.js"
+      ],
+      "css": [
+        "/build/admin_article_form.19acf1a3.css"
+      ]
+    },
+    "account": {
+      "js": [
+        "/build/runtime.fa509eb0.js"
+      ],
+      "css": [
+        "/build/account.8ecfd568.css"
+      ]
+    },
+    "login": {
+      "js": [
+        "/build/runtime.fa509eb0.js"
+      ],
+      "css": [
+        "/build/login.ed641709.css"
+      ]
+    }
+  }
+}
